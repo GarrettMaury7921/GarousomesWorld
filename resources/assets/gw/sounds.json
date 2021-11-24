@@ -1,0 +1,439 @@
+{
+  "records.FlyingNimbus": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/FlyingNimbus",
+        "stream": true
+      }
+    ]
+  },
+  "records.ChouzetsuDynamic": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/ChouzetsuDynamic",
+        "stream": true
+      }
+    ]
+  },
+  "records.Gas": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Gas",
+        "stream": true
+      }
+    ]
+  },
+  "records.Grog": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Grog",
+        "stream": true
+      }
+    ]
+  },
+  "records.OceanMan": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/OceanMan",
+        "stream": true
+      }
+    ]
+  },
+  "records.Riders": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Riders",
+        "stream": true
+      }
+    ]
+  },
+  "records.TimeChamber": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/TimeChamber",
+        "stream": true
+      }
+    ]
+  },
+  "records.UltimateBattle": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/UltimateBattle",
+        "stream": true
+      }
+    ]
+  },
+  "records.UltraDripstinct": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/UltraDripstinct",
+        "stream": true
+      }
+    ]
+  },
+  "records.TheFunny": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/TheFunny",
+        "stream": true
+      }
+    ]
+  },
+  "records.TheShire": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/TheShire",
+        "stream": true
+      }
+    ]
+  },
+  "records.EdgeOfNight": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/EdgeOfNight",
+        "stream": true
+      }
+    ]
+  },
+  "records.aaa": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/aaa",
+        "stream": true
+      }
+    ]
+  },
+  "records.Stereo": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Stereo",
+        "stream": true
+      }
+    ]
+  },
+  "records.GoblinBridge": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/GoblinBridge",
+        "stream": true
+      }
+    ]
+  },
+  "records.Weathertop": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Weathertop",
+        "stream": true
+      }
+    ]
+  },
+  
+   
+  "records.AmonHen": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/AmonHen",
+        "stream": true
+      }
+    ]
+  },
+  "records.Never": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Never",
+        "stream": true
+      }
+    ]
+  },
+  "records.Ladbroke": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/Ladbroke",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd20": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd20",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd21": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd21",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd22": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd22",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd23": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd23",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd24": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd24",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd25": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd25",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd26": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd26",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd27": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd27",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd28": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd28",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd29": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd29",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd30": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd30",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd31": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd31",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd32": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd32",
+        "stream": true
+      }
+    ]
+  },
+  
+    "records.cd44": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd44",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd33": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd33",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd34": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd34",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd35": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd35",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd36": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd36",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd37": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd37",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd38": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd38",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd39": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd39",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd40": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd40",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd41": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd41",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd42": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd42",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd43": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd43",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd45": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd45",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd46": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd46",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd47": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd47",
+        "stream": true
+      }
+    ]
+  },
+  "records.cd48": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "records/cd48",
+        "stream": true
+      }
+    ]
+  }
+  
+  
+}

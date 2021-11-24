@@ -1,0 +1,16 @@
+[
+{
+  "modid": "garousomesworld",
+  "name": "Garousome's World",
+  "description": "A Home-made mod made by Garousome for a modpack in 1.7.10.",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Garousome"],
+  "credits": "Garousome - Garrett",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
